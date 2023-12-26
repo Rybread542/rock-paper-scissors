@@ -52,6 +52,7 @@ body{
     background-color: rgb(84, 255, 121);
     border-radius: 5px;
     padding: 1px;
+    margin-top: 1em;
     display:none;
 }
 
